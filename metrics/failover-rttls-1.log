@@ -1,0 +1,19 @@
+== caminho ANTES da falha
+traceroute to 192.168.3.10 (192.168.3.10), 30 hops max, 60 byte packets
+ 1  192.168.1.1  0.020 ms
+ 2  10.0.12.2  0.007 ms
+ 3  10.0.23.2  0.007 ms
+ 4  192.168.3.10  0.011 ms
+== derrubando enlace R2-R3
+19:00:30.697769444 router-r2: eth0 DOWN
+19:00:30.778545736 router-r3: eth1 DOWN
+== caminho DEPOIS da falha
+traceroute to 192.168.3.10 (192.168.3.10), 30 hops max, 60 byte packets
+ 1  192.168.1.1  0.015 ms
+ 2  10.0.51.1  0.006 ms
+ 3  10.0.45.1  0.006 ms
+ 4  10.0.34.1  0.007 ms
+ 5  192.168.3.10  0.007 ms
+19:01:02.405982674 enlace r2-r3 restaurado (eth0 / eth1)
+== RESULTADO (rttls-1): 4 de 200 pacotes perdidos = ~0.8 s sem conectividade
+   log completo em metrics/failover-rttls-1.txt

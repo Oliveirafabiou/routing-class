@@ -1,0 +1,16 @@
+modo,roteador,rotas
+rip,r1,10
+rip,r2,10
+rip,r3,10
+rip,r4,10
+rip,r5,10
+ospf,r1,10
+ospf,r2,10
+ospf,r3,10
+ospf,r4,10
+ospf,r5,10
+rttls,r1,10
+rttls,r2,10
+rttls,r3,10
+rttls,r4,10
+rttls,r5,10

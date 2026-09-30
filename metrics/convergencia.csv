@@ -1,0 +1,10 @@
+modo,repeticao,perdidos,total,tempo_s
+rip,1,22,200,4.4
+rip,2,25,200,5
+rip,3,19,200,3.8
+ospf,1,7,200,1.4
+ospf,2,7,200,1.4
+ospf,3,7,200,1.4
+rttls,1,4,200,0.8
+rttls,2,4,200,0.8
+rttls,3,4,200,0.8

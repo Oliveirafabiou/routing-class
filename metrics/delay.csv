@@ -1,0 +1,7 @@
+modo,par,rtt_medio_ms
+rip,host1-host3,0.024
+rip,host1-host4,0.027
+ospf,host1-host3,0.027
+ospf,host1-host4,0.025
+rttls,host1-host3,0.030
+rttls,host1-host4,0.031

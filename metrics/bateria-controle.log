@@ -1,0 +1,35 @@
+f6648ae0610e8cec9ef6fefec0b76d6dfd9b853fcca3699e6023662267c53b2f
+393fad01075e0b6c53fc5f4619835501e23aeaed12d44b59ee7c1fcc397a7610
+1aef811055ec74d4db046707ac8a58bc2cbd3ef9f707b78b91389bd76a785a5f
+aaa98fe8b4d67d974bf5b844988e530468bcd086a92ea0e9f3f776123381faf3
+155adddc61ce2b774be8d8c7a265cccb52e60903d7b6246acbcff0375e959707
+modo rip ativo nos 5 roteadores
+coletando: 30 s de convergência inicial + 60 s em regime...
+rip [inicial] rede toda: 139 pacotes, 23988 bytes em 30 s = 4.6 pkt/s, 6397 bit/s
+rip [estavel] rede toda: 178 pacotes, 41296 bytes em 60 s = 3.0 pkt/s, 5506 bit/s
+OK: rip
+25f9836dd2fdb4e3f354e6481fe440a225984830284512ba7a7f93cceeaf414f
+a261cae4857ea30c177e51af028fa5b5248edd34734e13126cc925a451ed7f40
+6ef7722bf1f48a3448cc46fc276db3020db2db55256287628993994a410077aa
+eec85277b033383586abed90dda44ab4c58f8284140d2f4e7f0f5f9bcd0891f7
+d79e608fea84b4322f2d01dc639efa3b945018e4203844c75f7510deb847db99
+modo ospf ativo nos 5 roteadores
+coletando: 30 s de convergência inicial + 60 s em regime...
+ospf [inicial] rede toda: 298 pacotes, 23296 bytes em 30 s = 9.9 pkt/s, 6212 bit/s
+ospf [estavel] rede toda: 435 pacotes, 29000 bytes em 60 s = 7.2 pkt/s, 3867 bit/s
+OK: ospf
+ca876e133b93e693605f89a509d3e95473f74bc4af7a1c3b3955930e732514d1
+5cfb0c42bb391e7f0dbb0324a8c63cd6d017ac73f6ec0adb285e222055c60200
+67d2ada47731e4012502c7719d98ae8179f0af3283a4de9b59a347c7a6ef39f3
+4b8e48f694bdab55907adaeadad1cac58c48ec63b46a5cef34c62dd95fa90acf
+86b856162e23c07f0c8304f84be25da2813acdc08ef4c5082b8df2fc5ec68986
+581627cc5f591e9942040b378fa8d029ca65bef5cb6a96d45a67c8c6a8e8b9b8
+a054c1ed844dbe1cfd71931161da34afee584b47ba53f173ad6fe784639bd8f3
+0b0f2de082a73a3d692bad4f370caf300d10db3b342f681c192dfbb078e3f124
+ef3e5eb8bd7643b956f495783a6c2b37d07f7e4dd2e6907fda49a46b3a68eb3b
+339e6bf357802559f03449c0b37fc0cfdc7293f1361674b0a0227f91daf6e84d
+modo rttls ativo nos 5 roteadores
+coletando: 30 s de convergência inicial + 60 s em regime...
+rttls [inicial] rede toda: 695 pacotes, 54269 bytes em 30 s = 23.2 pkt/s, 14472 bit/s
+rttls [estavel] rede toda: 1341 pacotes, 98179 bytes em 60 s = 22.4 pkt/s, 13091 bit/s
+OK: rttls

@@ -1,0 +1,4 @@
+modo,caminho,rtt_medio_ms
+rip,R1-R2-R3,30.050
+ospf,R1-R2-R3,30.038
+rttls,R1-R5-R4-R3,0.024
