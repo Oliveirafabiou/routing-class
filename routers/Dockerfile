@@ -1,7 +1,7 @@
 FROM debian:bookworm-slim
 RUN apt-get update \
  && apt-get install -y --no-install-recommends \
-      bird2 iproute2 iputils-ping traceroute tcpdump procps \
+      bird2 iproute2 iputils-ping traceroute tcpdump procps python3 \
  && rm -rf /var/lib/apt/lists/*
-# O BIRD NÃO é iniciado aqui: os scripts iniciam com a config de cada experimento.
+# O BIRD e o RTT-LS NÃO iniciam aqui: scripts/routing.sh escolhe o modo.
 CMD ["sleep", "infinity"]
