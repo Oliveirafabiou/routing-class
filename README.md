@@ -85,7 +85,7 @@ Os dados brutos estão em `metrics/*.csv`. A convergência tem resolução de 0,
 
 ## Vídeo
 
-[link do vídeo de demonstração]
+https://youtu.be/wrGjtrA-Q3A
 
 ## Estrutura
 
