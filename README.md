@@ -87,6 +87,10 @@ Os dados brutos estão em `metrics/*.csv`. A convergência tem resolução de 0,
 
 https://youtu.be/wrGjtrA-Q3A
 
+## Documento com o slide
+
+https://docs.google.com/presentation/d/1yMj54ZhYnvhhp7-rRtp2JSr9kWSnilct/edit?usp=sharing&ouid=113134843095075562562&rtpof=true&sd=true
+
 ## Estrutura
 
 `routers/` e `hosts/` (imagens), `configs/` (static, rip, ospf, rttls), `scripts/`, `metrics/` (CSVs, capturas e gráficos).
